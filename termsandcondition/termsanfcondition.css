@@ -12,8 +12,11 @@ body{
 }
 
 p{
-    padding: 1rem  .1rem ;
+    padding: .3rem  .1rem ;
  
+}
+h4{
+    padding-top: 1rem;
 }
 
 

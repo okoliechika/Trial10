@@ -12,12 +12,15 @@ body{
 }
 
 p{
-    padding: 1rem  .1rem ;
+    padding: .3rem  .1rem ;
  
 }
 ul{
-    padding: 2rem 5rem;
+    padding: 1rem 5rem;
  
+}
+h4{
+    padding-top: 1rem;
 }
 
 
